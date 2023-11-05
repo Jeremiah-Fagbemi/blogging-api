@@ -1,8 +1,8 @@
 {
-  "name": "exam_blog_app",
+  "name": "blogging-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "jest --detectOpenHandles",
     "start": "node server.js"
